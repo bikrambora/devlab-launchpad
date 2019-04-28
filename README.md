@@ -24,13 +24,13 @@ Each lab takes approximately 15 minutes.
 
 Build a simple Lambda Function that sits behind an API gateway endpoint, learn how to use the Cloud9 IDE to Build, Debug and Deploy this Function.
 
-<a href="http://bit.ly/2VoHVR9">
+<a href="http://bit.ly/2VoHVR9" target="_blank">
 <img src="./media/labButton.png" width="20%">
 </a>
-<a href="https://console.aws.amazon.com/console/home">
+<a href="https://console.aws.amazon.com/console/home" target="_blank">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="" target="_blank">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
