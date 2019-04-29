@@ -35,7 +35,7 @@ Build a simple Lambda Function that sits behind an API gateway endpoint, learn h
 <img src="./media/consoleButton.png" width="20%">
 </a>
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -50,7 +50,7 @@ In this lab we will learn how to build and run a containerised application. We w
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -65,7 +65,7 @@ Build a sample serverless application using the AWS Serverless Application Model
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -80,7 +80,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -95,7 +95,7 @@ In this workshop we'll learn how to build the Vote Rocket voting web application
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -109,7 +109,7 @@ In this lab you will be building a virtual concierge powered using Amazon Sumeri
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -124,7 +124,7 @@ In this lab we will learn how to build and run a centralised NAT/Egress proxy so
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -139,7 +139,7 @@ In this DevLab, you'll crack open the IDE to secure a SaaS platform built on a R
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -154,7 +154,7 @@ In this lab you'll learn how to use aws app mesh to monitor and rote traffic bet
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -169,7 +169,7 @@ The goal of this lab is to build a simple audio notes application that asynchron
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -184,7 +184,7 @@ Learn how to become a super effecient user of the aws cli
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -199,7 +199,7 @@ This workshop shows you how you can parallelise the training of your reinforceme
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -214,7 +214,7 @@ This lab demonstrates how you can integrate AWS Elastic Beanstalk with Azure Dev
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -228,7 +228,7 @@ In this lab we, you will be building a contact center using Amazon Connect and i
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -242,7 +242,7 @@ This Lab will walk you through how you can use Amazon Lex with Twilio to create 
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -257,7 +257,7 @@ With an Alexa-hosted skill, you can build, edit, and publish a skill without lea
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
@@ -271,7 +271,7 @@ Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<a href="https://github.com/bikrambora/devlab-launchpad#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
