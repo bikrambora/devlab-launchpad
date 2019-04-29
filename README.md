@@ -5,6 +5,7 @@ This is a set of developer oriented labs built for one of the aws summit events.
 Each lab takes approximately 15 minutes.
 
 <img src="./media/DevLabsLogoSmall.png" width="45%">
+
 >Disclaimer: These labs are meant for learning purposes only, they are not meant to be used in production in any way shape or form.
 
 
