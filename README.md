@@ -146,7 +146,7 @@ In this DevLab, you'll crack open the IDE to secure a SaaS platform built on a R
 
 ### **9) How to control & monitor microservices on AWS**
 
-In this lab you'll learn how to use aws app mesh to monitor and rote traffic between your microservices.
+In this lab you'll learn how to use aws app mesh to monitor and route traffic between your microservices.
 
 <a href="http://bit.ly/2GNj6WE">
 <img src="./media/labButton.png" width="20%">
