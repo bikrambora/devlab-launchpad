@@ -5,7 +5,6 @@ This is a set of developer oriented labs built for one of the aws summit events.
 Each lab takes approximately 15 minutes.
 
 <img src="./media/DevLabsLogoSmall.png" width="45%">
-
 > Disclaimer: These labs are meant for learning purposes only, they are not meant to be used in production in any way shape or form.
 
 
@@ -20,7 +19,7 @@ Each lab takes approximately 15 minutes.
 
 ## Select a lab from below to begin
 
-### **Building and Debugging Lambdas with Cloud9**
+### **1) Building and Debugging Lambdas with Cloud9**
 
 Build a simple Lambda Function that sits behind an API gateway endpoint, learn how to use the Cloud9 IDE to Build, Debug and Deploy this Function.
 
@@ -30,12 +29,12 @@ Build a simple Lambda Function that sits behind an API gateway endpoint, learn h
 <a href="https://console.aws.amazon.com/console/home" target="_blank">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="" target="_blank">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL" target="_blank">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Build and run a Containerized web app using ECS & Docker**
+### **2) Build and run a Containerized web app using ECS & Docker**
 
 In this lab we will learn how to build and run a containerised application. We will then use the Amazon Elastic Container Service to host and run this container in the Cloud.
 
@@ -45,12 +44,12 @@ In this lab we will learn how to build and run a containerised application. We w
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Getting started with AWS Serverless Application Model (AWS SAM)**
+### **3) Getting started with AWS Serverless Application Model (AWS SAM)**
 
 Build a sample serverless application using the AWS Serverless Application Model (AWS SAM). SAM is an open-source framework for building serverless applications.
 
@@ -60,12 +59,12 @@ Build a sample serverless application using the AWS Serverless Application Model
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Automate static website deployments to S3 using CodePipeline**
+### **4) Automate static website deployments to S3 using CodePipeline**
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline. 
 
@@ -75,12 +74,12 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Build, Deploy and Operate full applications with Serverless backends in minutes using the AWS Amplify Framework**
+### **5) Build, Deploy and Operate full applications with Serverless backends in minutes using the AWS Amplify Framework**
 
 In this workshop we'll learn how to build the Vote Rocket voting web application with React and the Amplify Framework
 
@@ -90,11 +89,11 @@ In this workshop we'll learn how to build the Vote Rocket voting web application
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
-### **Build an AI Virtual Concierge using Amazon Sumerian**
+### **6) Build an AI Virtual Concierge using Amazon Sumerian**
 
 In this lab you will be building a virtual concierge powered using Amazon Sumerian. 
 
@@ -104,12 +103,12 @@ In this lab you will be building a virtual concierge powered using Amazon Sumeri
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Build a Transit VPC and Egress Solution using TGW**
+### **7) Build a Transit VPC and Egress Solution using TGW**
 
 In this lab we will learn how to build and run a centralised NAT/Egress proxy solution using Transit Gateway.
 
@@ -119,12 +118,12 @@ In this lab we will learn how to build and run a centralised NAT/Egress proxy so
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Securing Multi-tenant SaaS Applications Built On Serverless Microservices**
+### **8) Securing Multi-tenant SaaS Applications Built On Serverless Microservices**
 
 In this DevLab, you'll crack open the IDE to secure a SaaS platform built on a ReactJS web app and NodeJS serverless microservices.
 
@@ -134,12 +133,12 @@ In this DevLab, you'll crack open the IDE to secure a SaaS platform built on a R
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **How to control & monitor microservices on AWS**
+### **9) How to control & monitor microservices on AWS**
 
 In this lab you'll learn how to use aws app mesh to monitor and rote traffic between your microservices.
 
@@ -149,12 +148,12 @@ In this lab you'll learn how to use aws app mesh to monitor and rote traffic bet
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Explore GraphQL with AppSync and Transcribe**
+### **10) Explore GraphQL with AppSync and Transcribe**
 
 The goal of this lab is to build a simple audio notes application that asynchronously generates a text transcription of voice notes
 
@@ -164,12 +163,12 @@ The goal of this lab is to build a simple audio notes application that asynchron
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Working effectively with the AWS Command Line Interface**
+### **11) Working effectively with the AWS Command Line Interface**
 
 Learn how to become a super effecient user of the aws cli
 
@@ -179,12 +178,12 @@ Learn how to become a super effecient user of the aws cli
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Turbocharging Reinforcement Learning with SageMakerRL**
+### **12) Turbocharging Reinforcement Learning with SageMakerRL**
 
 This workshop shows you how you can parallelise the training of your reinforcement learning algorithms with SageMaker to get insanely fast turn around times & results for your reinforcement learning experiments.
 
@@ -194,12 +193,12 @@ This workshop shows you how you can parallelise the training of your reinforceme
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Integrate Your Favourite Microsoft DevOps Tools With AWS**
+### **13) Integrate Your Favourite Microsoft DevOps Tools With AWS**
 
 This lab demonstrates how you can integrate AWS Elastic Beanstalk with Azure DevOps to automatically deploy an ASP.NET core MVC application. 
 
@@ -209,11 +208,11 @@ This lab demonstrates how you can integrate AWS Elastic Beanstalk with Azure Dev
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
-### **Build a contact center for booking and checking appointment with AWS Connect/Lex/Lambda**
+### **14) Build a contact center for booking and checking appointment with AWS Connect/Lex/Lambda**
 
 In this lab we, you will be building a contact center using Amazon Connect and integrating with Amazon Lex. 
 
@@ -223,11 +222,11 @@ In this lab we, you will be building a contact center using Amazon Connect and i
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
-### **Build an office scheduler with Lex/DDB/Twilio**
+### **15) Build an office scheduler with Lex/DDB/Twilio**
 
 This Lab will walk you through how you can use Amazon Lex with Twilio to create an office scheduler. Appointments will be facilitated with the afformentioned services and stored in DynamoDB.
 
@@ -237,12 +236,12 @@ This Lab will walk you through how you can use Amazon Lex with Twilio to create 
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
 
-### **Build An Alexa-Hosted Fact Skill**
+### **16) Build An Alexa-Hosted Fact Skill**
 
 With an Alexa-hosted skill, you can build, edit, and publish a skill without leaving the developer console.
 
@@ -252,10 +251,23 @@ With an Alexa-hosted skill, you can build, edit, and publish a skill without lea
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="">
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
+### **17) Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment**
+
+Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment
+
+<a href="http://bit.ly/2vxb65D">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
 ## Thanks for completing a lab, hope you had fun!
 
