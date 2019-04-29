@@ -34,8 +34,10 @@ Build a simple Lambda Function that sits behind an API gateway endpoint, learn h
 <a href="https://console.aws.amazon.com/console/home" target="_blank">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun" target="_blank">
-
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad#thanks-for-completing-a-lab-hope-you-had-fun">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
 
 ### **2) Build and run a Containerized web app using ECS & Docker**
@@ -274,9 +276,11 @@ Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment
 </a>
 
 ## Thanks for completing a lab, hope you had fun!
+Please scan QR Code
+
+<img src="./media/feedbackQR.png" width="40%">
 
 We really appreciate your feedback and would love to hear about what you loved and what we can imnprove.
 
-Please give us feedback so we can improve these labs.
+#### Please give us feedback so we can improve these labs.
 
-<img src="./media/feedbackQR.png" width="50%">
