@@ -18,9 +18,9 @@ Each lab takes approximately 15 minutes.
 * Fill in "Give Feedback" to win a $50 Amazon gift voucher
 * Enjoy!
 
-Scan Feedback Link
+<!-- Scan Feedback Link
 
-<img src="./media/feedbackQR.png" width="30%">
+<img src="./media/feedbackQR.png" width="30%"> -->
 
 ## Select a lab from below to begin
 
@@ -55,7 +55,21 @@ In this lab we will learn how to build and run a containerised application. We w
 </a>
 
 
-### **3) Getting started with AWS Serverless Application Model (AWS SAM)**
+### **3) Build, Deploy and Operate full applications with Serverless backends in minutes using the AWS Amplify Framework**
+
+In this workshop we'll learn how to build the Vote Rocket voting web application with React and the Amplify Framework
+
+<a href="http://bit.ly/2DDymU3">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
+
+### **5) Getting started with AWS Serverless Application Model (AWS SAM)**
 
 Build a sample serverless application using the AWS Serverless Application Model (AWS SAM). SAM is an open-source framework for building serverless applications.
 
@@ -85,19 +99,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 </a>
 
 
-### **5) Build, Deploy and Operate full applications with Serverless backends in minutes using the AWS Amplify Framework**
 
-In this workshop we'll learn how to build the Vote Rocket voting web application with React and the Amplify Framework
-
-<a href="http://bit.ly/2DDymU3">
-<img src="./media/labButton.png" width="20%">
-</a>
-<a href="https://console.aws.amazon.com/console/home">
-<img src="./media/consoleButton.png" width="20%">
-</a>
-<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
-<img src="./media/feedbackButton.png" width="20%">
-</a>
 
 ### **6) Build an AI Virtual Concierge using Amazon Sumerian**
 
