@@ -1,227 +1,292 @@
-# Build, Run and Deploy a Containerized Web Application using Docker and Amazon Elastic Container Service (ECS)
+# Welcome to Dev Labs, let's get started!
+
+This is a set of developer oriented labs built for one of the aws summit events. If you're doing these at a summit then free lab accounts will be provided for you. If you are running these labs in your own aws accounts then you will incur charges for the resources provisioned for the labs.
+
+Each lab takes approximately 15 minutes.
+
+<img src="./media/DevLabsLogoSmall.png" width="45%">
+
+> Disclaimer: These labs are meant for learning purposes only, they are not meant to be used in production in any way shape or form.
+
+
+## Instructions
+
+* Select a lab to work through
+* Click on "Lab Instructions"
+* Click on "Go to Console"
+* Follow instructions of specific lab to walk through it
+* Fill in "Give Feedback" to win a $50 Amazon gift voucher
+* Enjoy!
+
+Scan Feedback Link
+
+<img src="./media/feedbackQR.png" width="30%">
+
+## Select a lab from below to begin
+
+### **1) Building and Debugging Lambdas with Cloud9**
+
+Build a simple Lambda Function that sits behind an API gateway endpoint, learn how to use the Cloud9 IDE to Build, Debug and Deploy this Function.
+
+<a href="http://bit.ly/2VoHVR9" target="_blank">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home" target="_blank">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
+
+
+### **2) Build and run a Containerized web app using ECS & Docker**
 
 In this lab we will learn how to build and run a containerised application. We will then use the Amazon Elastic Container Service to host and run this container in the Cloud.
 
-The diagram below illustrates the architecture the lab will be using. There is currently a version of this architecture deployed for you in the cloud. In this lab we will be deploying a new version of our containerized application onto this cluster.
+<a href="http://bit.ly/2GO9YRD">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
+
+
+### **3) Getting started with AWS Serverless Application Model (AWS SAM)**
+
+Build a sample serverless application using the AWS Serverless Application Model (AWS SAM). SAM is an open-source framework for building serverless applications.
+
+<a href="http://bit.ly/2L6X99i">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-![](media/overview-lab.png)
+
+### **4) Automate static website deployments to S3 using CodePipeline**
+
+This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline. 
+
+<a href="http://bit.ly/2ZJRSHQ">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-## Let's get started
 
+### **5) Build, Deploy and Operate full applications with Serverless backends in minutes using the AWS Amplify Framework**
+
+In this workshop we'll learn how to build the Vote Rocket voting web application with React and the Amplify Framework
 
-Go to **Cloud9** on the AWS Web console - this is your IDE in the cloud.
-You can also use your local IDE for all the steps of this lab.
+<a href="http://bit.ly/2DDymU3">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-* on top right corner - **Switch to N.Virginia (us-east-1)**
+### **6) Build an AI Virtual Concierge using Amazon Sumerian**
 
-* on the left hand pane click on **"Shared With You"**
+In this lab you will be building a virtual concierge powered using Amazon Sumerian. 
+
+<a href="http://bit.ly/2LaxkFz">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-![](media/image1.png)
 
-Open the "**ECS Lab Cloud 9 Env**" By clicking on **Open IDE**
+### **7) Build a Transit VPC and Egress Solution using TGW**
 
-![](media/cloud9.png)
+In this lab we will learn how to build and run a centralised NAT/Egress proxy solution using Transit Gateway.
+
+<a href="http://bit.ly/2PyEGBb">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-## Initial set up
 
-Once Inside Cloud9 - Open the Terminal change directory to the correct folder & **reset the lab**
+### **8) Securing Multi-tenant SaaS Applications Built On Serverless Microservices**
+
+In this DevLab, you'll crack open the IDE to secure a SaaS platform built on a ReactJS web app and NodeJS serverless microservices.
 
-```
-$ cd ~/environment/ecs-docker-lab/
+<a href="http://bit.ly/2DAYPBS">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
+
+
+### **9) How to control & monitor microservices on AWS**
+
+In this lab you'll learn how to use aws app mesh to monitor and route traffic between your microservices.
 
-$ chmod +x Reset.sh
+<a href="http://bit.ly/2GNj6WE">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
+
+
+### **10) Explore GraphQL with AppSync and Transcribe**
+
+The goal of this lab is to build a simple audio notes application that asynchronously generates a text transcription of voice notes
+
+<a href="http://bit.ly/2GPqCAo">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
+
+
+### **11) Working effectively with the AWS Command Line Interface**
+
+Learn how to become a super effecient user of the aws cli
+
+<a href="http://bit.ly/2W5VMZz">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-$ ./Reset.sh
 
-$ clear
+### **12) Turbocharging Reinforcement Learning with SageMakerRL**
 
-```
+This workshop shows you how you can parallelise the training of your reinforcement learning algorithms with SageMaker to get insanely fast turn around times & results for your reinforcement learning experiments.
 
-Install and run docker
-```
-$ sudo yum update -y
+<a href="http://bit.ly/2W5Wcz7">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-$ sudo yum install -y docker
 
-$ sudo service docker start
+### **13) Integrate Your Favourite Microsoft DevOps Tools With AWS**
 
-$ sudo usermod -a -G docker ec2-user
-```
+This lab demonstrates how you can integrate AWS Elastic Beanstalk with Azure DevOps to automatically deploy an ASP.NET core MVC application. 
 
-Check if docker is installed and running corectly
+<a href="http://bit.ly/2GPWdCb">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-```
-$ docker info
-```
+### **14) Build a contact center for booking and checking appointment with AWS Connect/Lex/Lambda**
 
-Open the **index.html** file inside the Dev Labs folder and edit the **Write something here**
+In this lab we, you will be building a contact center using Amazon Connect and integrating with Amazon Lex. 
 
-![](media/image2.png)
+<a href="http://bit.ly/2GEPBoY">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-The next person will read what you put in so please be respectful
+### **15) Build an office scheduler with Lex/DDB/Twilio**
 
-* **Save** your edited HTML File
+This Lab will walk you through how you can use Amazon Lex with Twilio to create an office scheduler. Appointments will be facilitated with the afformentioned services and stored in DynamoDB.
 
-## Build and Run your Docker Container Locally
+<a href="http://bit.ly/2GDzVC7">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-Build a container Image from the DockerFile
-```
-$ docker build -t staticsite:1.0 DockerStaticSite-master/
-```
 
-Run a container from the freshly built image
-```
-$ docker run -itd \--name mycontainer \--publish 8080:80 staticsite:1.0
-```
-Test if your container is running
-```
-$ curl http://localhost:8080
-```
+### **16) Build An Alexa-Hosted Fact Skill**
 
-**If you get an HTML page as a response, then the container is running successfully - well done!.**
+With an Alexa-hosted skill, you can build, edit, and publish a skill without leaving the developer console.
 
-## Push your container Image to the Cloud
+<a href="http://bit.ly/2L9rpAg">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-Now that your containerized application is running locally, let's push
-your docker image to a ECR (Elastic Container Repository) repository in
-the cloud
+### **17) Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment**
 
-![](media/docker-build.png)
+Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment
 
-Navigate to the ECS (Elastic Container Service) console and click on
-**Repositories**
+<a href="http://bit.ly/2vxb65D">
+<img src="./media/labButton.png" width="20%">
+</a>
+<a href="https://console.aws.amazon.com/console/home">
+<img src="./media/consoleButton.png" width="20%">
+</a>
+<a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-Click on "**ecs-lab-repo**"
+## Thanks for completing a lab, hope you had fun!
+Please scan QR Code for a chance to win a $50 amazon voucher
 
-![](media/image3.png)
+<img src="./media/feedbackQR.png" width="40%">
 
-Click on "**View Push Commands** "
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
 
-![](media/image4.png)
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 
-You will see a set of commands
+We really appreciate your feedback and would love to hear about what you loved and what we can imnprove.
 
-![](media/image5.png)
-
-**Go back to cloud9 cd into the correct folder**
-```
-$ cd DockerStaticSite-master/
-```
-**Follow the steps of the push commands to build and push the new modified image to the cloud repo**
-
-**Once the push is completed your docker image will be pushed to an ECR image repository on AWS**
-
-![](media/image6.png)
-
-## Update the cluster to use our new pushed image
-
-![](media/ecs-architecture.png)
-
-An ECS cluster is already provisioned for you. This cluster is
-currently running a previous version of the same application. You will
-now **Deploy** the your new application **Version** to the service
-
-## Let's update the ECS task definition to use the image that you just pushed
-
-Navigate to the **Elastic Container Service** Dashboard.
-
-Go to your ECR repo
-
-* Copy the repo url
-
-![](media/ecrRepo.png)
-
-
-In the navigation menu on the **left**, click **Task Definitions.**
-
-* select the **simplewebtask**
-
-* checkmark **simplewebtask**
-
-* click **Create New Revision**
-
-* scroll down and click **" Web Container "**
-* In  *Image* paste your repo url
-* Click "Update"
-* Scroll to bottom and click **Create**
-
-
-* scroll to the bottom of the page, then click **Create**
-
-This will create a new version of the Task. Note the Version Number. The
-new version will use the latest container image. i.e. the image that you
-just pushed.
-
-## Let's Update the ECS Service to deploy the new version of the task
-
-* in the left navigation pane, click **Clusters**.
-
-* in the **Clusters** window, click **default \>**.
-
-This is the cluster that your service resides in.
-
-* on the **Services** tab, check **webService**
-
-* click **Update** then click on **Revision**
-
-* **Revision:** select the *latest version that you just created*
-
-* **Force New Deployment --** check this box & turn it on
-
-* click **Next Step**
-
-* on **Step 2**, click **Next Step**
-
-* on **Step 3**, click **Next Step**
-
-* on **Step 4**, click **Update Service**
-
-This will deploy a new version of the application.
-
-* on the **Launch Status** page, click **View Service**
-
-* on the **Service: myService** page, click the **Events** tab.
-
-## Check if the new version on the application has successfully deployed
-
-Wait a few minutes. Monitor the process of draining connections and
-stopping tasks till the service reaches a steady state.
-
-You may need to click the **Refresh** button to see the new events.
-
-Once the events says "service webService has reached a steady state."
-
-* Go to EC2 service page 
-
-* On the left hand pane click on load balancers
-
-* search and click on **myLoadBalancer**
-
-![](media/image7.png)
-
-* Paste in the **Load Balancer\'s DNS name** to see the new version of the
-app running in the cloud
-
-![](media/image8.png)
-
-Congratulations! Your Containerized web application is Now Running in
-the cloud
-
-
-## Clean Up Step
-
-```
-$ chmod +x Reset.sh
-
-$ ./Reset.sh
-```
-
-
-## Further reading
-
-https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
-
-https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html
-
-https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html
+#### Please give us feedback so we can improve these labs.
 
