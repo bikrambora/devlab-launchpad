@@ -15,10 +15,10 @@ Each lab takes approximately 15 minutes.
 * Click on "Lab Instructions"
 * Click on "Go to Console"
 * Follow instructions of specific lab to walk through it
-* Fill in "Give Feedback" to win a $50 Amazon gift voucher
+* Fill in "Give Feedback" to be in the draw to win a $50 Amazon gift voucher
 * Enjoy!
 
-Scan Feedback Link
+Scan Feedback Link to get the full list of labs.
 
 <img src="./media/feedbackQR.png" width="30%">
 
@@ -281,12 +281,14 @@ Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment
 Please scan QR Code for a chance to win a $50 amazon voucher
 
 <img src="./media/feedbackQR.png" width="40%">
-<!-- 
-<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
-<img src="./media/feedbackButton.png" width="20%">
-</a> -->
 
-<!-- <a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL"> -->
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
+<!-- <img src="./media/feedbackButton.png" width="20%"> -->
+</a>
+
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
+
+http://bit.ly/2ZLdRya
 
 We really appreciate your feedback and would love to hear about what you loved and what we can improve.
 
