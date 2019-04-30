@@ -69,7 +69,7 @@ In this workshop we'll learn how to build the Vote Rocket voting web application
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
-### **5) Getting started with AWS Serverless Application Model (AWS SAM)**
+### **4) Getting started with AWS Serverless Application Model (AWS SAM)**
 
 Build a sample serverless application using the AWS Serverless Application Model (AWS SAM). SAM is an open-source framework for building serverless applications.
 
@@ -84,7 +84,7 @@ Build a sample serverless application using the AWS Serverless Application Model
 </a>
 
 
-### **4) Automate static website deployments to S3 using CodePipeline**
+### **5) Automate static website deployments to S3 using CodePipeline**
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline. 
 
