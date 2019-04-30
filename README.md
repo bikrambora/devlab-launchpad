@@ -18,9 +18,9 @@ Each lab takes approximately 15 minutes.
 * Fill in "Give Feedback" to win a $50 Amazon gift voucher
 * Enjoy!
 
-<!-- Scan Feedback Link
+Scan Feedback Link
 
-<img src="./media/feedbackQR.png" width="30%"> -->
+<img src="./media/feedbackQR.png" width="30%">
 
 ## Select a lab from below to begin
 
@@ -288,7 +288,7 @@ Please scan QR Code for a chance to win a $50 amazon voucher
 
 <!-- <a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL"> -->
 
-We really appreciate your feedback and would love to hear about what you loved and what we can imnprove.
+We really appreciate your feedback and would love to hear about what you loved and what we can improve.
 
 #### Please give us feedback so we can improve these labs.
 
