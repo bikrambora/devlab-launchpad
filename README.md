@@ -276,9 +276,15 @@ Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment
 </a>
 
 ## Thanks for completing a lab, hope you had fun!
-Please scan QR Code
+Please scan QR Code for a chance to win a $50 amazon voucher
 
 <img src="./media/feedbackQR.png" width="40%">
+
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
+<img src="./media/feedbackButton.png" width="20%">
+</a>
+
+<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 
 We really appreciate your feedback and would love to hear about what you loved and what we can imnprove.
 
