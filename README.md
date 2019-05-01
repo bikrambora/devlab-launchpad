@@ -18,7 +18,7 @@ Each lab takes approximately 15 minutes.
 * Fill in "Give Feedback" to be in the draw to win a $50 Amazon gift voucher
 * Enjoy!
 
-Scan Feedback Link to get the full list of labs.
+Scan Feedback Link with Phone Camera get the full list of labs.
 
 <img src="./media/feedbackQR.png" width="30%">
 
@@ -72,7 +72,7 @@ In this workshop we'll learn how to build the Vote Rocket voting web application
 ### **4) Getting started with AWS Serverless Application Model (AWS SAM)**
 
 Build a sample serverless application using the AWS Serverless Application Model (AWS SAM). SAM is an open-source framework for building serverless applications.
-
+<!-- 
 <a href="http://bit.ly/2L6X99i">
 <img src="./media/labButton.png" width="20%">
 </a>
@@ -82,12 +82,12 @@ Build a sample serverless application using the AWS Serverless Application Model
 <a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
-
+ -->
 
 ### **5) Automate static website deployments to S3 using CodePipeline**
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline. 
-
+<!-- 
 <a href="http://bit.ly/2ZJRSHQ">
 <img src="./media/labButton.png" width="20%">
 </a>
@@ -96,7 +96,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 </a>
 <a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
-</a>
+</a> -->
 
 
 
