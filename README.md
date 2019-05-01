@@ -288,7 +288,7 @@ Please scan QR Code for a chance to win a $50 amazon voucher
 
 <a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 
-http://bit.ly/2ZLdRya
+http://bit.ly/devlabfeedback
 
 We really appreciate your feedback and would love to hear about what you loved and what we can improve.
 
