@@ -267,9 +267,6 @@ Use Amazon Transcribe and Amazon Comprehend to analyze customer sentiment
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline. 
 
-> Temporarily Disabled
-
-<!-- 
 <a href="http://bit.ly/2ZJRSHQ">
 <img src="./media/labButton.png" width="20%">
 </a>
@@ -278,7 +275,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 </a>
 <a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
-</a> -->
+</a>
 
 ## Thanks for completing a lab, hope you had fun!
 Please scan QR Code with a phone for a chance to win a **$50** Amazon voucher
