@@ -191,7 +191,7 @@ The goal of this lab is to build a simple audio notes application that asynchron
 
 ### **12) Working effectively with the AWS Command Line Interface**
 
-Learn how to become a super effecient user of the aws cli
+Learn how to become a super efficient user of the aws cli
 
 <a href="http://bit.ly/2W5VMZz">
 <img src="./media/labButton.png" width="20%">
