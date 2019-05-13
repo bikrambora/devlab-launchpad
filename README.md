@@ -18,10 +18,6 @@ Each lab takes approximately 15 minutes.
 * Fill in "Give Feedback" to be in the draw to win a $50 Amazon gift voucher
 * Enjoy!
 
-Scan Feedback Link with Phone Camera get the full list of labs.
-
-<img src="./media/feedbackQR.png" width="30%">
-
 ## Select a lab from below to begin
 
 ### **1) Building and Debugging Lambdas with Cloud9**
@@ -278,13 +274,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 </a>
 
 ## Thanks for completing a lab, hope you had fun!
-Please scan QR Code with a phone for a chance to win a **$50** Amazon voucher
 
-<img src="./media/feedbackQR.png" width="40%">
-
-<a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
-<!-- <img src="./media/feedbackButton.png" width="20%"> -->
-</a>
 
 <a href="https://amazonmr.au1.qualtrics.com/jfe/form/SV_09usL1Ng0FmVFzL">
 </a>
