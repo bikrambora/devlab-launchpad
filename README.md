@@ -30,7 +30,6 @@ Build a simple Lambda Function that sits behind an API gateway endpoint, learn h
 <a href="https://console.aws.amazon.com/console/home" target="_blank">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-</a>
 <a href="https://github.com/bikrambora/devlab-launchpad/blob/master/README.md#please-give-us-feedback-so-we-can-improve-these-labs">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
